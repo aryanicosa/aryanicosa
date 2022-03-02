@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on UE4 C++ and Unity C# SDK project to developt Company product
-- 🌱 I’m currently learning C++, C#, GO, Python, PostgreSQL, MongoDb and Embedded System (sometimes)
+- 🌱 I’m currently learning C++, C#, GO, Python, SQL, NoSQL and Embedded System (sometimes)
 - 👯 I’m looking to collaborate on That i mention above 
 - 🤔 I’m looking for help with GO, Python and Embedded System programming
 - 💬 Ask me about Anything you want and let me answer anything i know :pepesad:
