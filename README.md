@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Justice Core OS team as Backend engineer using Golang to develop Company product, previously working on UE4 C++ and Unity C# SDK project just like switching position.
+- 🔭 I’m currently working on Justice Core OS team as Backend engineer using Golang to develop Company product, previously working on UE4 C++ and Unity C# SDK project (just switching position from SDKs dev to BE dev)
 - 🌱 I’m currently learning C++, C#, GO, Python, SQL, NoSQL, Docker and Embedded System (sometimes)
 - 👯 I’m looking to collaborate on That i mention above 
 - 🤔 I’m looking for help with GO, Python and Embedded System programming
