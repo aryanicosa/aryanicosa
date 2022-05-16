@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on UE4 C++ and Unity C# SDK project to developt Company product
-- 🌱 I’m currently learning C++, C#, GO, Python, SQL, NoSQL and Embedded System (sometimes)
+- 🔭 I’m currently working on Justice Core OS team as Backend engineer using Golang to develop Company product, previously working on UE4 C++ and Unity C# SDK project just like switching position.
+- 🌱 I’m currently learning C++, C#, GO, Python, SQL, NoSQL, Docker and Embedded System (sometimes)
 - 👯 I’m looking to collaborate on That i mention above 
 - 🤔 I’m looking for help with GO, Python and Embedded System programming
 - 💬 Ask me about Anything you want and let me answer anything i know :pepesad:
-- 📫 How to reach me: ...(soon)
+- 📫 Reach me on LinkedIn, click here https://www.linkedin.com/in/aryanicosa/ 
 
 <!--
 **aryanicosa/aryanicosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
