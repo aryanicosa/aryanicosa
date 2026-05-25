@@ -1,18 +1,49 @@
-### Hi there 👋
+### Hi there 👋 
 
-- 🔭 I’m working as a Software Engineer, develop company products in my daily basis (backend), performing performance testing using Grafana K6 (typescript/Javascript)
-- 🔨 Working on various project outside of main project such as Student Online Registration and Online Examination Website (fullstack). 
-- ⏮️ previously working on Arduino/ESP8266 IoT, UE4 C++ and Unity C# SDK project
-- 🌱 I’m learning Robotics, Computer Vision, and Embedded System 
-- 👯 I’m looking to collaborate on Robotics, CV, Embedded System, or Online Examination Website project
-- 📫 Reach me on LinkedIn, here https://www.linkedin.com/in/aryanicosa/
-- ⚡ Fun fact: I love daddy jokes and many people said that I am a talkative person :)
+I am a Software Engineer focused on backend development, system architecture, performance testing, and monitoring.
 
-<!--
-**aryanicosa/aryanicosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
 
--->
+#### 💻 Languages & Frameworks
+![Go](https://shields.io)
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![C++](https://shields.io)
+
+#### 🗄️ Database & Message Broker
+![PostgreSQL](https://shields.io)
+![MongoDB](https://shields.io)
+![Redis](https://shields.io)
+![Apache Kafka](https://shields.io)
+
+#### 📊 Testing & Observability
+![Grafana K6](https://shields.io)
+![Prometheus](https://shields.io)
+
+#### 🐳 DevOps & Tools
+![Docker](https://shields.io)
+![Nginx](https://shields.io)
+
+---
+
+#### 🔭 What I'm Doing
+* **Main Role:** Working as a Backend Software Engineer, developing company products and performing automated performance testing using **Grafana K6** (TypeScript/JavaScript) on a daily basis.
+* **Side Projects:** Developing full-stack applications outside my main role, including a *Student Online Registration System* and an *Online Examination Website*.
+* **Background:** Experienced in Arduino/ESP8266 IoT devices, Unreal Engine 4 (C++), and Unity (C#) SDK projects.
+
+#### 🌱 Learning & Collaboration
+* **Currently Learning:** Robotics, Computer Vision, and Embedded Systems.
+* **Open to Collaboration:** Excited to collaborate on **Robotics**, **Computer Vision**, **Embedded Systems**, or **Online Examination Website** projects.
+
+#### 📫 Connect With Me
+* **LinkedIn Profile:** [aryanicosa](https://linkedin.com/in/aryanicosa)
+* **Email Contact:** [aryanicosa@gmail.com](mailto:aryanicosa@gmail.com)
+
+#### ⚡ Fun Fact
+* People often say I'm quite a talkative person! :)
+
+---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanicosa&theme=dark"/>
