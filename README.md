@@ -35,7 +35,7 @@ I am a Software Engineer focused on backend development, system architecture, pe
 
 #### 🌱 Learning & Collaboration
 * **Currently Learning:** Robotics, Computer Vision, and Embedded Systems.
-* **Open to Collaboration:** Excited to collaborate on **Robotics**, **Computer Vision**, **Embedded Systems**, or **Online Examination Website** projects.
+* **Open to Collaboration:** Excited to collaborate on **Robotics**, **Computer Vision**, or **Embedded Systems** projects.
 
 #### 📫 Connect With Me
 * **LinkedIn Profile:** [aryanicosa](https://linkedin.com/in/aryanicosa)
